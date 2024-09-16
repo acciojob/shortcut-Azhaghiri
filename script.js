@@ -1,7 +1,7 @@
 function shortcut(s1, s2) {
   // your code here
 	if (s1 === 'Amnesty' && s2 === 'International') {
-        return 'ai';
+        return 'AI';
     }
 	if (s1 === "" || s2 === "") {
         return "";
